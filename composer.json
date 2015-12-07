@@ -22,8 +22,8 @@
 	"zendframework/zend-mime": "~2.4",
 	"zendframework/zend-view": "~2.4",
 	"zendframework/zend-mvc": "~2.4",
-	"zendframework/zend-loader": "2.5.*",
-	"zendframework/zend-modulemanager": "2.5.*"
+	"zendframework/zend-loader": "~2.4",
+	"zendframework/zend-modulemanager": "~2.4"
     },
     "autoload": {
         "psr-0": {
